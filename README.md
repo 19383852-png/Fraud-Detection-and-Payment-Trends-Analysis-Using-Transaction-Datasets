@@ -1,4 +1,4 @@
-# Fraud Detection and Payment Trends Analysis Using Machine Learning
+# Fraud Detection and Payment Trends Analysis Using Machine Learning.
 
 This repository presents an end-to-end machine-learning workflow for analysing and detecting fraudulent transactions using the Kaggle Credit Card Fraud Detection Dataset. The project incorporates exploratory analysis, supervised and unsupervised modelling, synthetic oversampling, evaluation under extreme class imbalance, and conceptual integration with distributed computing technologies such as Apache Spark, Kafka, and Flink.
 
