@@ -1,0 +1,13 @@
+Model: Logistic Regression
+
+ROC-AUC: 0.9903
+
+PR-AUC: 0.6993
+
+Precision (fraud): 0.0656
+
+Recall (fraud): 0.9189
+
+F1 (fraud): 0.1225
+
+Training time: 3.84
